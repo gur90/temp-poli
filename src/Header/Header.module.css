@@ -1,0 +1,17 @@
+.header_container{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+   
+ 
+}
+button{
+    background-color: transparent;
+    border: none;
+    color:black;
+    font-size: 26px;
+    font-style: oblique;
+}
+.logo{
+    width: 200px;
+}

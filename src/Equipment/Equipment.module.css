@@ -1,0 +1,10 @@
+:root{
+    --equip-container-bg-color:#9C969D;
+}
+
+
+.equipment_container{
+    width: 100%;
+    height:100px;
+    background-color: var(--equip-container-bg-color);
+}
