@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.13f7660b.css",
+    "main.js": "./static/js/main.c55ea7ac.js",
+    "static/media/28dayslatercyr.ttf": "./static/media/28dayslatercyr.3c9ae28b5e9b3c78ad76.ttf",
+    "static/media/start.jpg": "./static/media/start.c7253da5bee7a242c473.jpg",
+    "static/media/logoza.ru.png": "./static/media/logoza.ru.449743ac22b5f8a31712.png",
+    "index.html": "./index.html",
+    "main.13f7660b.css.map": "./static/css/main.13f7660b.css.map",
+    "main.c55ea7ac.js.map": "./static/js/main.c55ea7ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f7660b.css",
+    "static/js/main.c55ea7ac.js"
+  ]
+}
